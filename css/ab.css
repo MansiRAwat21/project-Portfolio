@@ -14,7 +14,6 @@ header{
     width: 100%;
     position: relative;
     height:100vh; 
-    background: url('C:/Users/Pahadi Rawat/Documents/GitHub/sir-portfolio/images1/no.jpg') no-repeat;
     background-size:100%;
     background-position:center;
     clip-path: polygon(50% 0%, 100% 0, 100% 75%, 50% 100%, 0% 75%, 0 0);
@@ -60,9 +59,9 @@ nav a:hover{
 }
 .text p{
     font-size: 25px;
+    margin-bottom: 10px;
 }
 .center{
-   
     text-align: center;
     align-items: left;
     justify-content: center;
@@ -151,10 +150,10 @@ nav a:hover{
 .about-ri p{
     font-size: 20px;
     text-align: justify;
+    margin-bottom: 20px;
 }
 #skills{
     padding: 100px 50px;
-    background: url('C:/Users/Pahadi Rawat/Documents/GitHub/sir-portfolio/images1/R (1).jpg');
     background-size:cover;
     color: #fff;
 }
@@ -234,6 +233,7 @@ progress{
 }
 .ser1 p{
     font-size: 20px;
+    margin-bottom: 15px;
 }
 .row1{    
     display: flex;
